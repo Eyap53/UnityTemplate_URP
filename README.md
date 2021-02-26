@@ -1,6 +1,6 @@
-# Unity Template - URP
+# Unity Template - Beta - URP
 
-A template to start a Unity project with the URP rendering pipeline.
+A template to start a Unity project with the beta version and the URP rendering pipeline.
 
 It already has :
 - gitignore configured.
