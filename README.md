@@ -8,6 +8,7 @@ It already has :
 - Editor configuration configured for C# writing conventions.
 - Auto format on push, using github Actions and dotnet-format.
 - The Unity project into a subfolder, with the starting packages for URP (including Shader Graph).
+- New input system basic layout set-up.
 
 ## Unlicense
 
