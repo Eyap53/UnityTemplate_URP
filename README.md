@@ -1,6 +1,6 @@
-# Unity Template - Beta - URP
+# Unity Template - URP
 
-A template to start a Unity project with the beta version and the URP rendering pipeline.
+**A template to start a Unity project with the latest beta version and the URP rendering pipeline.**
 
 It already has :
 - gitignore configured.
@@ -9,6 +9,8 @@ It already has :
 - Auto format on push, using github Actions and dotnet-format.
 - The Unity project into a subfolder, with the starting packages for URP (including Shader Graph).
 - New input system basic layout set-up.
+
+I keep this project updated with the latest beta version (or official version if there is no beta).
 
 ## Unlicense
 
